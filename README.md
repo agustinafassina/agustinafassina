@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @agustinafassina :)!! I’m a software developer 💻 🇦🇷
-- 👀 I’m interested in services and in the structures, my stack is Backend, I like it ♥ but I'm also very interested in everything DevOps!!
-- 🌱 I keep learning about Aws and its services for example ECS, ECR, RDS, EC2 ♪
-- 📫 How to reach me agustinafassina@gmail.com
-- ✍ https://www.linkedin.com/in/agustina-fassina-458247163/ 
+👋 Hi, my name is Agustina, I'm a software developer 💻 🇦🇷 and some time ago I started learning about devOps culture. <br>
+👀 I'm currently in a devOps engineering role and always doing services across various technologies. <br>
+📫 How to reach me agustinafassina@gmail.com <br>
+✍ https://www.linkedin.com/in/agustina-fassina-458247163/ <br>
+🧾 My skills https://gitmind.com/app/docs/mh3z4wpv
+
 
 <!---
 agustinafassina/agustinafassina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
