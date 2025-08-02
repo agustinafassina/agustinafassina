@@ -1,5 +1,5 @@
 <div align="center" style="border-radius: 10px">
-  <img height="150" src="https://avatars.githubusercontent.com/u/16559731?v=4"  />
+  <img height="300" width="70%" src="header.jpg"  />
 </div>
 
 ## 💫 About Me
