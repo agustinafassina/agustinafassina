@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 
-👋 Hi, I'm Agustina!<br>
+👋 Hi, I'm Agustina 🙌🏼!<br>
 I'm a software developer 💻 🇦🇷 with experience in infrastructure and DevOps. I handle setting up and managing servers to facilitate deployments and ensure performance. Currently, I work as a DevOps Engineer, developing and maintaining services across various technologies. 
 <br>
 Always eager to learn and take on new challenges!.
