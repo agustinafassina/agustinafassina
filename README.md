@@ -5,9 +5,7 @@
 ---
 
 ## Sobre mí · About me 🇦🇷
-
 ### Español
-
 Hola, soy **Agustina** — desarrolladora de software 🇦🇷 con foco en **infraestructura y DevOps**. Me ocupo de entornos y servidores para facilitar despliegues, mejorar el rendimiento y mantener servicios estables. Hoy trabajo como **DevOps Engineer**, desarrollando y operando servicios con distintas tecnologías.
 
 Me motiva seguir aprendiendo y sumar desafíos nuevos.
@@ -15,7 +13,6 @@ Me motiva seguir aprendiendo y sumar desafíos nuevos.
 **Idiomas:** español (nativo) · inglés (trabajo y documentación técnica).
 
 ### English
-
 Hi, I'm **Agustina** — a software developer from Argentina with a focus on **infrastructure and DevOps**. I work on environments and servers to streamline deployments, improve performance, and keep services reliable. I'm currently a **DevOps Engineer**, building and running services across different stacks.
 
 I'm always keen to learn and take on new challenges.
@@ -25,7 +22,6 @@ I'm always keen to learn and take on new challenges.
 ---
 
 ## Stack · Herramientas
-
 Herramientas y tecnologías que uso o con las que trabajo:
 
 _Tools and technologies I use or work with:_
