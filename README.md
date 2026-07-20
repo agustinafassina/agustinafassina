@@ -34,12 +34,29 @@ _Tools and technologies I use or work with:_
 
 _…y más según el proyecto · …and more depending on the project._
 
-**Skills map (diagrama / notas):** [GitMind](https://gitmind.com/app/docs/mh3z4wpv)
+**Skills map (diagrama / notas):** [GitMind](https://gitmind.com/app/docs/mh3z4wpv) · [Skills site](https://agustinafassina.github.io/AgustinaFassina.Skills/)
+
+---
+
+## Proyectos destacados · Featured projects
+Algunos repos públicos que resumen bien mi foco (infra, automatización y seguridad en la nube):
+
+_A few public repos that capture my focus (cloud infra, automation, and security):_
+
+- **[Aws.Fargate.Terraform](https://github.com/agustinafassina/Aws.Fargate.Terraform)** — Despliegue y escalado de apps en **ECS Fargate** con Terraform. · Automates deploy & scaling on **ECS Fargate** with Terraform.
+- **[Aws.Auto.SecurityMonitor](https://github.com/agustinafassina/Aws.Auto.SecurityMonitor)** — Baseline para escanear recursos AWS con jobs en contenedores. · Scalable baseline to scan AWS resources with containerized jobs.
+- **[Af.Boto3.Aws](https://github.com/agustinafassina/Af.Boto3.Aws)** — Scripts en Python (**Boto3**) para provisión, gestión y monitoreo en AWS. · Python (**Boto3**) scripts for AWS provisioning, management & monitoring.
+- **[Aws.Dashboard.App](https://github.com/agustinafassina/Aws.Dashboard.App)** — Dashboard que consume una API con info de seguridad en AWS. · Dashboard that pulls security info from AWS via a REST API.
+- **[TemplateApi.Net10](https://github.com/agustinafassina/TemplateApi.Net10)** — Template de API REST en **.NET 10** para arrancar proyectos. · **.NET 10** REST API template to bootstrap new services.
+- **[Diagrams.With.Python](https://github.com/agustinafassina/Diagrams.With.Python)** — Diagramas generados con Python a partir de infra Terraform. · Python-generated diagrams kept in sync with Terraform infra.
+
+Más repos (pipelines Azure↔AWS, backups EC2/Mongo/Redis, OpenAI en Azure, etc.) en el [perfil](https://github.com/agustinafassina?tab=repositories).
+
+_More repos (Azure↔AWS pipelines, EC2/Mongo/Redis backups, Azure OpenAI, etc.) on my [profile](https://github.com/agustinafassina?tab=repositories)._
 
 ---
 
 ## Contacto · Contact
-
 | | |
 |---|---|
 | **Email** | [agustinafassina@gmail.com](mailto:agustinafassina@gmail.com) |
@@ -49,7 +66,6 @@ _…y más según el proyecto · …and more depending on the project._
 ---
 
 ## Redes · Socials
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/agustinafassina/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustina-fassina-458247163/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agustinafassina@gmail.com)
@@ -57,7 +73,6 @@ _…y más según el proyecto · …and more depending on the project._
 ---
 
 ## Colaboración · Collaboration
+**ES:** Si querés charlar sobre infraestructura, automatización u OSS, escribime por email o LinkedIn. Arriba tenés una selección de proyectos; el resto (y los **pins**) están en mi [perfil de GitHub](https://github.com/agustinafassina).
 
-**ES:** Si querés charlar sobre infraestructura, automatización u OSS, escribime por email o LinkedIn. También podés ver mis **repositorios destacados** en mi perfil de GitHub.
-
-**EN:** If you'd like to talk infrastructure, automation, or OSS, reach out by email or LinkedIn. You can also browse my **pinned repositories** on my GitHub profile.
+**EN:** If you'd like to talk infrastructure, automation, or OSS, reach out by email or LinkedIn. Featured projects are above; the rest (and **pins**) live on my [GitHub profile](https://github.com/agustinafassina).
