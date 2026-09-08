@@ -20,8 +20,7 @@ Cloud platforms · IaC & containers · CI/CD & automation · Security & identity
 [Full skills map (GitMind) →](https://gitmind.com/app/docs/mh3z4wpv) · [Portfolio →](https://agustinafassina.com/en/)
 
 ## 📫 Contact
-
-Hiring, platform work, or a question about something I built — prefer the [contact form](https://agustinafassina.com/en/) or email:
+Hiring, platform work, or a question about something I built prefer the [contact form](https://agustinafassina.com/en/) or email:
 
 [![Website](https://img.shields.io/badge/Portfolio-agustinafassina.com-0A66C2?style=flat)](https://agustinafassina.com/en/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agustinafassina@gmail.com)
