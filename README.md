@@ -3,8 +3,7 @@
 </div>
 
 ## 💫 About me
-
-Hi, I'm **Agustina** — a **DevOps Engineer** from Argentina 🇦🇷. I started in **backend**, then moved into **servers, cloud platforms, and automation**: deployments, account security (scans & metrics), CI/CD, and FinOps habits so production spend stays predictable. I also build **.NET** APIs when a product needs one.
+Hi, I'm **Agustina** a **DevOps Engineer** from Argentina 🇦🇷. I started in **backend**, then moved into **servers, cloud platforms, and automation**: deployments, account security (scans & metrics), CI/CD, and FinOps habits so production spend stays predictable. I also build **.NET** APIs when a product needs one.
 
 **Languages:** Spanish (native) · English (professional / technical docs)
 
